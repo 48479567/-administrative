@@ -1,13 +1,15 @@
 import { Component } from '@angular/core';
 
+import { MENU_ITEMS } from './pages-menu';
+
 @Component({
   selector: 'app-pages',
   template: `
-    <h2>Pages Works!!</h2>
-    <a routerLink="/auth">Logout</a>
+    <nb-menu [items]="menu"></nb-menu>
     <router-outlet><router-outlet>
   `,
   styleUrls: []
 })
 export class PagesComponent {
+  menu = MENU_ITEMS;
 }
