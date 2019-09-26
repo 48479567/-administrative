@@ -1,0 +1,63 @@
+Fuente: https://www.youtube.com/watch?v=iZCVblLxzPo
+Titulo: Sistema de Trámite Documentario - Mesa de Partes para Municipalidades
+Autor: GCM Group
+
+Descripción: Este es un Sistema de Atención al Ciudadano con Trámite Documentario.
+
+
+___________
+Admnistrador
+-----------------
+
+
+a. Tramite Documentario
+
+  a.1. Ingreso de Expedientes (TUPA)
+  a.2. Ingreso de Documentos Simples (SIN TUPA)
+  a.3. Seguimiento Documentario
+  a.4. Separacion de Documentos
+
+b. Mantenimiento de Tablas
+  b.1. Oficinas
+  b.2. Requisitos
+  b.3. Requisitos del Tupa
+  b.4. Tupa
+  b.5. Correlativo de Doc. Recibidos
+  b.6. Trabajadores
+  b.7. Tipo de Documentos
+  b.8. Remitente
+  b.9. Profesiones
+  b.10. Información de la Empresa
+  b.11. Estados del Documento
+  b.12. Prioridades
+  b.13. Estado Civil
+  b.14. Feriado
+  b.15. Tipo de Trámite
+
+
+c. Consultas Varias
+  c.1. Hoja de Ruta
+  c.2. Reporte de Ingreso Documentario
+  c.3. Reporte de Documentos
+  c.4. Doc. Derivados
+  c.5. Estadística de Documentos por Estadístico
+  c.6. Reporte de Doc. Recibidos
+  c.7. Estad. Doc. x Oficina
+  c.8. Estad. por tipo de Documento
+  c.9.Relación de Expedientes
+  c.10. Expedientes x tipo de Trámite
+  c.11. Reporte de Parte Diario
+
+
+d. Administrador
+  d.1. Perfiles
+  d.2. Perfiles de Usuario
+  d.3. Perfil por Opción
+  d.4. Usuarios
+  d.5. Usuarios por Oficina
+  d.6. Correlativo Expediente
+
+
+e. Manuales
+  e.1. Manual de Usuario
+
