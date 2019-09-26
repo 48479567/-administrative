@@ -8,11 +8,18 @@ Descripción: Este es un Sistema de Atención al Ciudadano con Trámite Document
 ___________
 Admnistrador
 -----------------
-
+Modulos
 
 a. Tramite Documentario
 
   a.1. Ingreso de Expedientes (TUPA)
+  En esta parte se toma por rango de fecha todos los expedientes, se separa por dos colores. Ahora esto se separa por colores dependiendo si ya es pasado o no (ver imagen).
+
+  Ahora en esta parte se deonota la diferencia entre documento expediente y simple, el primero esta relacionado con TUPA, el segundo es algo con menor importancia como una invitación, es por ello que este ultimo esta aislado de los tramites. cuando se pone en el Boton nuevo (de la imagen), se abre la ventana de la siguiente imagen. 
+
+  Una vez dentro de la ventana de registro de documento, se selecciona el tipo en la lista desplegable, 
+
+
   a.2. Ingreso de Documentos Simples (SIN TUPA)
   a.3. Seguimiento Documentario
   a.4. Separacion de Documentos
